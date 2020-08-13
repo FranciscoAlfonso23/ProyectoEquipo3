@@ -1,9 +1,9 @@
 <?php
 
 require('../model/mvc/conexion.php');
-require('../model/VO/VO_proveedor.php');
+require('../model/VO/VO_producto.php');
 
-class DAOMarca{
+class DAOProducto{
     private $database;
     private $con;
     private $params;

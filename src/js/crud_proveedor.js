@@ -7,7 +7,7 @@ const PROVEEDOR = new Vue({
         proveedores : [],
         totalRegistros:0,
         paginas:1,
-        itemsPagina:2,
+        itemsPagina:5,
         paginaActual: 1,
         siguiente: '',
         anterior: '',

@@ -166,7 +166,7 @@
                       <!--Cuerpo del modal-->
                       <label>Marca</label>
                       <input style="display:none" type="text" class="form-control form-control-user" placeholder="" aria-label="Search" aria-describedby="basic-addon2" id="id-delete">
-                      <input type="text" class="form-control form-control-user" placeholder="" aria-label="Search" aria-describedby="basic-addon2" id="marca-delete">
+                      <input type="text" class="form-control form-control-user" placeholder="" aria-label="Search" aria-describedby="basic-addon2" id="proveedor-delete">
                       <label>Correo</label>
                       <input type="text" class="form-control form-control-user" placeholder="" aria-label="Search" aria-describedby="basic-addon2" id="correo-delete">
                       <label>Telefono</label>

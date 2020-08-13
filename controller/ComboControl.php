@@ -13,17 +13,4 @@ switch($opcionCombo){
         $comboProveedor = FactoryCombos::crearfactory('proveedor');
         echo $comboProveedor->getData();
     break;
-
-    // case 'instanciarMoneda':
-    //     $comboMoneda = ModelFactoryProducerCombos::crearfactory('moneda');
-    //     echo $comboMoneda->getData();
-    // break;
-    // case 'instanciarConocimiento':
-    //     $comboConocimiento = ModelFactoryProducerCombos::crearfactory('conocimiento');
-    //     echo $comboConocimiento->getData();
-    // break;
-    // case 'instanciarEstancia':
-    //     $comboEstancia = ModelFactoryProducerCombos::crearfactory('estancia');
-    //     echo $comboEstancia->getData();
-    // break;
 }

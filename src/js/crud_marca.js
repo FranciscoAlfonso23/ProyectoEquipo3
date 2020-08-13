@@ -7,7 +7,7 @@ const MARCA = new Vue({
         marcas : [],
         totalRegistros:0,
         paginas:1,
-        itemsPagina:2,
+        itemsPagina:5,
         paginaActual: 1,
         siguiente: '',
         anterior: '',
